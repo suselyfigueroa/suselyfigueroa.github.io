@@ -59,6 +59,7 @@ h1, h2, h3, h4 { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Seg
   gap: .6rem;
 }
 .logo-symbol { font-size: 1.5rem; color: #C4B5FD; line-height: 1; }
+.logo-img { height: 3.5rem; width: auto; display: block; }
 .logo-name em { color: #C4B5FD; font-style: normal; }
 
 .nav-links { display: flex; gap: 1.6rem; list-style: none; }

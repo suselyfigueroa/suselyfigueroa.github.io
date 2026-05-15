@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -4 214 72">
+  <text x="2" y="48"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="42"
+        fill="#C4B5FD">∫</text>
+  <text x="31" y="44"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="28"
+        font-style="italic"
+        fill="#C4B5FD">f</text>
+  <text x="66" y="26"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="14"
+        fill="#ffffff"
+        letter-spacing="0.06em">Susely</text>
+  <text x="66" y="48"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="14"
+        font-style="italic"
+        fill="#C4B5FD"
+        letter-spacing="0.06em">Figueroa</text>
+</svg>
